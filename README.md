@@ -1,6 +1,6 @@
 # 👨‍💻 Hello, I'm Aditya Suresh
 
-### 🚀 **Full Stack Web Developer** | **Gamer by Passion 🎮**
+### 🌐 **Full Stack Web Developer** | **Gamer by Passion 🎮**
 
 > *Leveraging modern tech to build smarter, scalable solutions.*
 
@@ -9,7 +9,7 @@
 ## ⚡ **What I Bring to the Table**
 * **Frontend Wizardry:** Crafting responsive UIs with **React**, **Next.js**, and **Tailwind CSS**.
 * **Backend Architecture:** Building robust APIs using **Node.js** and managing databases.
-* **AI Integration:** Leveraging AI models to create smart applications like **ResumeGenius-AI**.
+* **AI Integration:** Leveraging AI models to create smart applications like **ResumeGenius-AI & MindEase**.
 
 ---
 
